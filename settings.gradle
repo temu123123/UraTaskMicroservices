@@ -1,0 +1,3 @@
+rootProject.name = 'library-api-microservices'
+include 'book-storage-service'
+
